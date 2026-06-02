@@ -24,11 +24,6 @@ Contributions requiring additional license requirements must be approved by the 
 The OCUDU project is governed by a framework of principles, values, policies and processes to help our community and constituents towards our shared goals.
 The [Governance](https://gitlab.com/ocudu/Governance) repo is used by the Technical Steering Committee, which oversees governance of the project.
 
-## License
-
-This project is licensed under the BSD 3-Clause Open MPI variant License.
-Portions of this software may implement 3GPP specifications, which may be subject to additional licensing requirements.
-
 ## Github Organization Structure
 
 This Github Organization contains multiple git repositories. Main ones are:
@@ -40,4 +35,9 @@ This Github Organization contains multiple git repositories. Main ones are:
 | [ocudu_infra_srs](https://github.com/ocudu/ocudu_infra_srs) | E2E tests, Test Framework, CI and IaC |
 | [ocudu-matlab](https://github.com/ocudu/ocudu-matlab) | MATLAB tools for PHY benchmarking and test-vector generation |
 | [ocudu_test_report](https://github.com/ocudu/ocudu_test_report) | Unified test reports and feature tracking |
-| [ocudu_o1_adapter](httpshttps://github.com/ocudu/ocudu_o1_adapter) | Adapter between CU/DU towards the Service Management and Orchestration (SMO) |
+| [ocudu_o1_adapter](https://github.com/ocudu/ocudu_o1_adapter) | Adapter between CU/DU towards the Service Management and Orchestration (SMO) |
+
+## License
+
+This project is licensed under the BSD 3-Clause Open MPI variant License.
+Portions of this software may implement 3GPP specifications, which may be subject to additional licensing requirements.
